@@ -12,6 +12,8 @@ Contribution
 
 If you feel that something is missing, or you have a good idea on how to improve this standard, feel free to open a pull requests exposing your arguments.
 
+You can use this for your own company by making a private fork. Every change to your coding guidelines must be sent as a pull request, and needs to be approved by your team members
+
 Created by
 --------------------
 
