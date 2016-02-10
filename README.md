@@ -12,7 +12,7 @@ Contribution
 
 If you feel that something is missing, or you have a good idea on how to improve this standard, feel free to open a pull requests exposing your arguments.
 
-Developed By
+Created by
 --------------------
 
 Enrique López Mañas - <eenriquelopez@gmail.com>
