@@ -18,7 +18,7 @@ import android.widget.Button;
  * Classes start with uppercase letter
  *
  * @author Enrique López-Mañas
- * @version 0.1 10 February 2017
+ * @version 0.1.1 10 February 2016
  */
 public class Foo {
 
